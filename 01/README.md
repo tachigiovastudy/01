@@ -149,7 +149,10 @@
 2. ファイル操作をしてみよう
   
       2-1. 以下の構成のディレクトリを作成しよう。
+      
+      ![画像](https://github.com/tachigiovastudy/study_unix/blob/master/assets/01/sc1.png)
     
       2-2. 作成したディレクトリを以下の構成に作り変えてみよう。
-    
+      
+      ![画像](https://github.com/tachigiovastudy/study_unix/blob/master/assets/01/sc2.png)
 
